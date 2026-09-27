@@ -6,6 +6,7 @@
 
 > [!IMPORTANT]
 > **This fork is adapted for plugin & skill development.** It is forked from [`stepfun-ai/Step-Code`](https://github.com/stepfun-ai/Step-Code), and all plugin and skill development work is based on this fork. Companion plugin repo: [`Neriah-Ado/stepcode-plugins`](https://github.com/Neriah-Ado/stepcode-plugins).
+> All-agents spec guide: [`docs/agents-universal-guide.md`](docs/agents-universal-guide.md) · Universal skill package: [`skills/stepcode-dev/`](skills/stepcode-dev/)
 
 ![test.jpg](https://static-openapi.stepfun.com/resource/test.jpg)
 

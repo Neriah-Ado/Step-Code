@@ -6,6 +6,7 @@
 
 > [!IMPORTANT]
 > **本 Fork 适配插件（Plugin）与 Skill 开发。** 本仓库 Fork 自 [`stepfun-ai/Step-Code`](https://github.com/stepfun-ai/Step-Code)，插件与 Skill 的开发适配工作基于此进行。配套插件仓库：[`Neriah-Ado/stepcode-plugins`](https://github.com/Neriah-Ado/stepcode-plugins)。
+> 全体 Agent 规范指南：[`docs/agents-universal-guide.md`](docs/agents-universal-guide.md) · 通用 Skill 包：[`skills/stepcode-dev/`](skills/stepcode-dev/)
 
 ![test.jpg](https://static-openapi.stepfun.com/resource/test.jpg)
 
