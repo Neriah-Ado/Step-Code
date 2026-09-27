@@ -4,6 +4,9 @@
   <strong>English</strong> · <a href="README.zh-CN.md">简体中文</a>
 </p>
 
+> [!IMPORTANT]
+> **This fork is adapted for plugin & skill development.** It is forked from [`stepfun-ai/Step-Code`](https://github.com/stepfun-ai/Step-Code), and all plugin and skill development work is based on this fork. Companion plugin repo: [`Neriah-Ado/stepcode-plugins`](https://github.com/Neriah-Ado/stepcode-plugins).
+
 ![test.jpg](https://static-openapi.stepfun.com/resource/test.jpg)
 
 <h3><strong>Swift execution, long-horizon reliability, and high token efficiency.</strong></h3>

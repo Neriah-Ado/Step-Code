@@ -4,6 +4,9 @@
   <a href="README.md">English</a> · <strong>简体中文</strong>
 </p>
 
+> [!IMPORTANT]
+> **本 Fork 适配插件（Plugin）与 Skill 开发。** 本仓库 Fork 自 [`stepfun-ai/Step-Code`](https://github.com/stepfun-ai/Step-Code)，插件与 Skill 的开发适配工作基于此进行。配套插件仓库：[`Neriah-Ado/stepcode-plugins`](https://github.com/Neriah-Ado/stepcode-plugins)。
+
 ![test.jpg](https://static-openapi.stepfun.com/resource/test.jpg)
 
 <h3><strong>迅捷执行，长程可靠，token 更省。</strong></h3>
